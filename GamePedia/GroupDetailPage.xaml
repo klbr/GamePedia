@@ -31,7 +31,7 @@
         DataContext="{Binding Group}"
         d:DataContext="{Binding AllGroups[0], Source={d:DesignInstance Type=data:GamePediaDataSource, IsDesignTimeCreatable=True}}">
         <Grid.Background>
-            <ImageBrush ImageSource="Assets/background.png"/>
+            <ImageBrush ImageSource="Assets/background 1.png"/>
         </Grid.Background>
 
         <Grid.RowDefinitions>

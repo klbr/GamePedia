@@ -144,6 +144,7 @@
     <None Include="GamePedia_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\background 1.png" />
     <Content Include="Assets\background.png" />
     <Content Include="Assets\Badge.png" />
     <Content Include="Assets\Console\md 480x360.png" />
